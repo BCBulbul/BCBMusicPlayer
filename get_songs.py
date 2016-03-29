@@ -172,7 +172,6 @@ s.get_random_song()
 
 #s.listing_all_music_singers()
 
- #  print(a[0])# bi kısmını - splitiyle alabiliyorum. ama geri kalanını?
 
 #s.delete_song('dale papi')
 
